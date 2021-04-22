@@ -21,3 +21,16 @@
 #destacar{
     background-color: #9fd8df;
 }
+
+#lista{
+    background-color: aliceblue;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: midnightblue;
+}
+
+nav ul{
+    width: 300px;
+    background-color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
